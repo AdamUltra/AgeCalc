@@ -3,7 +3,7 @@ import tkinter as tk
 from PIL import Image, ImageTk
 window = tk.Tk()
 window.geometry("500x500")
-window.title(" Age Calculator Appy AdamUltra ")
+window.title(" Age Calculator App by AdamUltra ")
 name = tk.Label(text="Name")
 name.grid(column=0, row=1)
 year = tk.Label(text="Year")
